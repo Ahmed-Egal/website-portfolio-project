@@ -1,0 +1,15 @@
+.nav-bar ul{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.list-items{
+    font-size: 18px;
+    list-style-type: none;
+    color: black;
+    padding-top: 10px;
+}
+.nav-bar{
+    height: 2.5rem;
+
+}
